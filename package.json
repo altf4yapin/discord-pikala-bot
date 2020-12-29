@@ -1,0 +1,19 @@
+{
+  "name": "pikalabot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Alperen",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "chance": "^1.1.7",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "moment": "^2.29.1",
+    "ytdl-core": "^4.2.1"
+  }
+}
